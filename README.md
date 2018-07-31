@@ -13,7 +13,7 @@ Topic: Generative Adversarial Networks.
 * I then trained my GAN using the 200,000 celebrity face images in the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset.
 * After further decreasing the learning rate, my GAN was able to generate reasonably convincing images resembling human faces after only one training epoch:
 
-    <img src="https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/generated_faces.png" height="140">
+    <img src="https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/generated_faces.png" height="200">
 * The [MNIST](http://yann.lecun.com/exdb/mnist) dataset is maintained courtesy of [Yann LeCun](http://yann.lecun.com), [Corinna Cortes](http://homepage.mac.com/corinnacortes), and [Christopher J.C. Burges](http://research.microsoft.com/en-us/people/cburges).
 * The [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset comes from [Ziwei Liu](http://personal.ie.cuhk.edu.hk/~lz013), [Ping Luo](http://personal.ie.cuhk.edu.hk/~pluo), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang), and [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml) of the [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk) of The Chinese University of Hong Kong.
 
