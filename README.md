@@ -20,6 +20,7 @@ Topic: Generative Adversarial Networks.
 * Deep Convolutional GAN architecture.
 * Successive [conv2d_transpose](https://www.tensorflow.org/api_docs/python/tf/layers/conv2d_transpose) layers in the generator network, in order to create unique, convincing 2d images based on a random input signal.
 * Using batch normalization to stabilize GAN training by reducing internal covariant shift.
+* Proper implementation of batch normalization in generator and discriminator networks -- using a TensorFlow control dependency to ensure that mean and variance are updated before optimization is run.
 
 ## My Completed Project
 * [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.ipynb) / [html version](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.html) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.pdf)
