@@ -26,7 +26,7 @@ Topic: Generative Adversarial Networks.
 * Including dropout layers in the discriminator network, to prevent it from dominating the generator network.
 
 ## My Completed Project
-* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.html) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.pdf)
+* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.ipynb) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/dlnd_face_generation.pdf)
 
 ## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/deep_learning_nanodegree_face_image_generation_project/blob/master/face_image_generation_project_review.pdf)
